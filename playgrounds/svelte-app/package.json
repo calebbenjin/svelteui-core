@@ -1,6 +1,6 @@
 {
   "name": "@playgrounds/svelte-app",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -11,6 +11,6 @@
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-svelte": "^4.0.9",
     "svelte": "^3.46.3"
-  }, 
+  },
   "private": "true"
 }
